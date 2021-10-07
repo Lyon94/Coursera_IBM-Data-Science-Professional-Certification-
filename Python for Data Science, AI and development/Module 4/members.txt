@@ -1,0 +1,7 @@
+Membership No  Date Joined  Active
+    55399      2015-9-16    yes
+    50597      2015-3-6     yes
+    84972      2016-11-14   yes
+    78554      2015-3-14    yes
+    66750      2017-10-3    yes
+    67750      2017-2-6     yes
